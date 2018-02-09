@@ -5,4 +5,4 @@ This repo contains exercises from books where I'm learning Go programming langua
 ## Books
 
 - [Introduction to Go Tree House course](treehouse/)
-- [The Little Go Book](litle_go_book/)
+- [The Little Go Book](little_go_book/)

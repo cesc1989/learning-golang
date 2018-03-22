@@ -1,6 +1,7 @@
 package main
 
-/*import "fmt"*/
+// You can use fmt.Println or println
+//import "fmt"
 
 func main(){
   // fmt.Println("Hola mundo")

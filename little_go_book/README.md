@@ -10,3 +10,9 @@ Practiced in:
 
 - [main.go](01_basics/main.go)
 - [functions](01_functions/)
+
+[Chapter 2 - Structures](https://github.com/karlseguin/the-little-go-book/blob/master/en/go.md#chapter-2---structures)
+
+Practiced in:
+
+- [structures](02_structures/)

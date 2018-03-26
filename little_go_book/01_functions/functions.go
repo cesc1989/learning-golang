@@ -14,8 +14,8 @@ func main() {
   fmt.Println(s)
 }
 
+// You need to specify the return value type
 func fili() string{
-  //fmt.Println("Una versh")
   return "Filib"
 }
 
